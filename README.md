@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KittenRang
-I'm glad to see U! ( ु ´͈ ᵕ `͈ )ु
+- I'm glad to see U! ( ु ´͈ ᵕ `͈ )ु
 I'm learning about C#, Java
 
 
